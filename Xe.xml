@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CucQuanLy>
+  <MaTinh>47</MaTinh>
+  <TenTinh>Binh Thuan</TenTinh>
+  <DanhSach>
+    <Xe>
+      <BienSo>1355</BienSo>
+      <TenXe>Wave</TenXe>
+      <GiaTriXe>20000000</GiaTriXe>
+      <LoaiXe>Mo to</LoaiXe>
+      <KhuVuc>Huyen</KhuVuc>
+    </Xe>
+    <Xe>
+      <BienSo>7489</BienSo>
+      <TenXe>SH Mode</TenXe>
+      <GiaTriXe>80000000</GiaTriXe>
+      <LoaiXe>Mo to</LoaiXe>
+      <KhuVuc>Thanh Pho</KhuVuc>
+    </Xe>
+    <Xe>
+      <BienSo>7476</BienSo>
+      <TenXe>Fore</TenXe>
+      <GiaTriXe>900000000</GiaTriXe>
+      <LoaiXe>O to</LoaiXe>
+      <KhuVuc>Thanh Pho</KhuVuc>
+    </Xe>
+    <Xe>
+      <BienSo>3234</BienSo>
+      <TenXe>Mitsubisi</TenXe>
+      <GiaTriXe>600000000</GiaTriXe>
+      <LoaiXe>Tai</LoaiXe>
+      <KhuVuc>Tinh</KhuVuc>
+    </Xe>
+    <Xe>
+      <BienSo>6842</BienSo>
+      <TenXe>HuynDai</TenXe>
+      <GiaTriXe>780000000</GiaTriXe>
+      <LoaiXe>Tai</LoaiXe>
+      <KhuVuc>Tinh</KhuVuc>
+    </Xe>
+  </DanhSach>
+</CucQuanLy>
